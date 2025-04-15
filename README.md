@@ -10,8 +10,6 @@ Most of my repositories are currently private, a space where I quietly work on m
 ## A little more about me...
 - **Languages:**  
   Fluent in **English** (en-3) & **Japanese** (ja-N) | Can read & write **Korean** (ko-2) & **Chinese** (zh-2)  
-- **Interests:**  
-  Discord • Travel • Code • Reading • Cooking • Wiki  
 - **Technical Skills:**  
   Backend & software development with experience in:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
